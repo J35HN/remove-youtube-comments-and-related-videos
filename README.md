@@ -9,3 +9,6 @@ This extension disables comments and related videos on a YouTube video. The inte
 2. Go to your Manage Extensions page. On a new tab, search chrome://extensions (chrome browser) or edge://extensions (edge browser).
 3. Enable Developer Mode (in case it is not enabled).
 4. Click the Unload unpacked button, and select the directory of the downloaded _extension_ folder.
+
+# How to use the Extension
+On a YouTube video, simply click the extension icon on your toolbar. The icon will display either ``ON`` or ``OFF``. Note that this is tab-dependent, the extension will be either on or off on each unique tab. 
